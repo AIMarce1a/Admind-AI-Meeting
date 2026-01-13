@@ -1,0 +1,7 @@
+{
+  "name": "AI Meeting Assistant",
+  "description": "A powerful dashboard to record online and physical meetings, transcribe them in real-time with speaker recognition, and generate AI-powered summaries, minutes, and to-do lists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
